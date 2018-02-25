@@ -1,0 +1,74 @@
+#number {
+    
+    text-align: center;
+    height: 70px;
+    
+}
+#results {
+    font-family: 'Muli', sans-serif;
+    text-align: center;
+    height: 70px;
+
+}
+#main-body {
+   
+    text-align: center;
+    font-weight: bold;
+    font-size: 21px;
+    font-family: 'Muli', sans-serif;
+}
+#header {
+    text-align: center;
+}
+#score {
+    
+    text-align: center;
+    height: 70px;
+    
+}
+#total {
+    font-family: 'Muli', sans-serif;
+    font-weight: bold;
+}
+#guess {
+    font-family: 'Muli', sans-serif;
+    font-weight: bold;
+}
+.winloss {
+    font-family: 'Muli', sans-serif;
+    font-weight: bold;
+}
+#head {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 70px;
+}
+.container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+#crystals {
+    padding: 5px;
+    text-align: center;
+}
+
+#blue {
+    height: 100px;
+    width: 100px;
+}
+#green {
+    height: 100px;
+    width: 100px;
+}
+#red {
+    height: 110px;
+    width: 100px;
+}
+#yellow {
+    height: 110px;
+    width: 100px;
+}
+body {
+    background-image: url("../images/purty_wood.png")
+}
